@@ -1,3 +1,3 @@
-# INET 4031 Module 2 Lab 2
+# inet 4031-lab2-module2
 
 -Code and files for Module 2 lab 2
